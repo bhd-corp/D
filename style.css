@@ -1,0 +1,38 @@
+body {
+	background: #fff/;
+}
+h1 {
+	color: black;
+	font-size: 200px;
+	text-align: center;
+	position: relative;
+	border-bottom: 10px solid #000;
+	width: 600px;
+	left: 180px;
+}
+h2 {
+	color: #000;
+	font-size: 80px;
+	text-align: center;
+	position: relative;top: 550px;
+}
+.icon {
+	width: 700px;
+	margin: auto;
+	border: 10px solid #000;
+	height: 600px;
+	position: relative;top: -345px;
+}
+img {
+	position: fixed;width: 600px;
+	top: 450px;
+	display: none;
+	height: 500px;
+	left: 200px;
+}
+input {
+	position: fixed;top: 600px;
+	font-size: 40px;
+	background: none;
+	left: 180px;
+}
